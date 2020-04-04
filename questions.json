@@ -1,0 +1,63 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "q": "I love exploring the latest libraries and tech trends",
+      "type": "range",
+      "target": "Tech"
+    },
+    {
+      "id": 2,
+      "q": "I'm more of a manager than a developer",
+      "type": "range",
+      "target": "IIT"
+    },
+    {
+      "id": 3,
+      "q": "I want to make HMIF known throughout campus and beyond",
+      "type": "range",
+      "target": "Eksternal"
+    },
+    {
+      "id": 4,
+      "q": "I'm usually the life of the party",
+      "type": "range",
+      "target": "Internal"
+    },
+    {
+      "id": 5,
+      "q": "I love my campus",
+      "type": "range",
+      "target": "Senator Team"
+    },
+    {
+      "id": 6,
+      "q": "I like looking at aesthetic things",
+      "type": "range",
+      "target": "Media and Creative"
+    },
+    {
+      "id": 7,
+      "q": "I am a very time-based and systematic person",
+      "type": "range",
+      "target": "Kesekjenan"
+    },
+    {
+      "id": 8,
+      "q": "I love seeing other people grow and develop",
+      "type": "range",
+      "target": "People and Culture"
+    }
+  ],
+
+  "divisions": [
+    "Tech",
+    "IIT",
+    "Eksternal",
+    "Internal",
+    "Senator Team",
+    "Media and Creative",
+    "Kesekjenan",
+    "People and Culture"
+  ]
+}
