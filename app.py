@@ -2,8 +2,6 @@ from flask import Flask, jsonify, request
 from flask_cors import CORS
 import json
 import random
-from google.oauth2 import service_account
-from googleapiclient.discovery import build
 import sys
 
 app = Flask(__name__)
