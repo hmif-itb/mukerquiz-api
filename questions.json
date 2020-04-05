@@ -2,7 +2,7 @@
   "questions": [
     {
       "id": 1,
-      "q": "I love exploring the latest libraries and tech trends",
+      "q": "I like to spend time exploring the latest libraries and tech trends",
       "type": "range",
       "target": "Tech"
     },
@@ -14,25 +14,25 @@
     },
     {
       "id": 3,
-      "q": "I want to make HMIF known throughout campus and beyond",
+      "q": "I love meeting new people and socializing",
       "type": "range",
       "target": "Eksternal"
     },
     {
       "id": 4,
-      "q": "I'm usually the life of the party",
+      "q": "I ABSOLUTELY HATE seeing people throw trash irresponsibly",
       "type": "range",
       "target": "Internal"
     },
     {
       "id": 5,
-      "q": "I love my campus",
+      "q": "I am usually up to date with recent news and events",
       "type": "range",
       "target": "Senator Team"
     },
     {
       "id": 6,
-      "q": "I like looking at aesthetic things",
+      "q": "I like to tell stories through imagery or writing",
       "type": "range",
       "target": "Media and Creative"
     },
@@ -44,10 +44,59 @@
     },
     {
       "id": 8,
-      "q": "I love seeing other people grow and develop",
+      "q": "I love being involved with Kaderisasi stuff",
       "type": "range",
       "target": "People and Culture"
+    },
+    {
+      "id": 9,
+      "q": "HMIF needs more people with good soft-skills",
+      "type": "range",
+      "target": "People and Culture"
+    },
+    {
+      "id": 10,
+      "q": "I stalk people like a pro",
+      "type": "range",
+      "target": "Kesekjenan"
+    },
+    {
+      "id": 11,
+      "q": "I never think INSIDE box",
+      "type": "range",
+      "target": "Media and Creative"
+    },
+    {
+      "id": 12,
+      "q": "I care about my friends academic and social well-being",
+      "type": "range",
+      "target": "Internal"
+    },
+    {
+      "id": 13,
+      "q": "I'm good at selling stuff",
+      "type": "range",
+      "target": "IIT"
+    },
+    {
+      "id": 14,
+      "q": "I love hearing inspiring stories",
+      "type": "range",
+      "target": "Eksternal"
+    },
+    {
+      "id": 15,
+      "q": "julid is my hobby",
+      "type": "range",
+      "target": "Senator Team"
+    },
+    {
+      "id": 16,
+      "q": "I like sharing my knowledge with my friends",
+      "type": "range",
+      "target": "Tech"
     }
+
   ],
 
   "divisions": [
